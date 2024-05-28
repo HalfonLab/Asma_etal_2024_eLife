@@ -1,6 +1,0 @@
-[submodule "SCRMshaw_HD"]
-	path = SCRMshaw_HD
-	url = https://github.com/HalfonLab/SCRMshaw_HD.git
-[submodule "post_processing_SCRMshaw_pipeline"]
-	path = post_processing_SCRMshaw_pipeline
-	url = https://github.com/HalfonLab/post_processing_SCRMshaw_pipeline.git
