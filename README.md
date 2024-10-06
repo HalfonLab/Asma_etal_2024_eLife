@@ -13,8 +13,8 @@ For the most up-to-date versions of the software and scripts, see instead the re
 
 
   A permanent archive of this code can be found at Zenodo:
-  https://doi.org/10.5281/zenodo.13821367
+  https://doi.org/10.5281/zenodo.13821366
 
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13821367.svg)](https://doi.org/10.5281/zenodo.13821367)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13821366.svg)](https://doi.org/10.5281/zenodo.13821366)
